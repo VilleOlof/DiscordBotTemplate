@@ -1,0 +1,8 @@
+{
+  "Name": "amount",
+  "Description": "Specify the Amount of Dimden Gifs",
+  "Type": "4",
+  "IsRequired": "True",
+  "MinValue": 1,
+  "MaxValue": 10
+}

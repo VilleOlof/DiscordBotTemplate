@@ -1,0 +1,41 @@
+Option Attribute JSON Values:
+
+ChannelTypes
+Choices
+Description
+IsAutocomplete
+IsDefault
+IsRequired
+MaxValue
+MinValue
+Name
+Options
+Type
+
+TYPE ENUMS:
+1 - SubCommand
+2 - SubCommandGroup
+3 - String
+4 - Integer
+5 - Boolean
+6 - User
+7 - Channel
+8 - Role
+9 - Mentionable
+10 - Number
+11 - Attachment
+
+CHANNEL TYPE ENUMS:
+0 - Text
+1 - DM
+2 - Voice
+3 - Group
+4 - Category
+5 - News
+6 - Store
+10 - NewsThread
+11 - PublicThread
+12 - PrivateThread
+13 - Stage
+14 - GuildDirectory
+15 - Forum
