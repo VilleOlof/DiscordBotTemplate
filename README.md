@@ -11,6 +11,13 @@ It Also Supports Component Buttons And Button Click Responses.
 This Template Is Based On Beeper's Ground-Laying Code For Slash Commands & Discord Stuff.  
 *(Beeper Is A Discord Bot In The Official Marble It Up! Discord Server, Also Developed By Me)*
 
+### Requires
+*Discord*  
+*Discord.WebSocket*    
+*Discord.Net*  
+
+*Newtonsoft.Json*
+
 ## Getting Started
 Quite Simple, Download The Files.  
 And Change `"<ENV-TOKEN-KEY-NAME>"` In `Program.cs`,  
